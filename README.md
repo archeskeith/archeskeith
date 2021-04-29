@@ -23,9 +23,14 @@
 
 ### Github Stats
 
-![@archeskeith's GitHub stats](https://github-readme-stats.vercel.app/api?username=archeskeith&theme=merko&show_icons=true)
+<a href="https://github.com/archeskeith/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archeskeith&theme=merko&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeskeith&layout=dark)](https://github.com/archeskeith/github-readme-stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archeskeith&layout=dark)](https://github.com/archeskeith/github-readme-stats)
+
 
 [twitter]: https://twitter.com/archeskeith
 [instagram]: https://instagram.com/archeskeith
