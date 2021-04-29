@@ -20,9 +20,6 @@
 <br />
 
 
-
-### Github Stats
-
 <a href="https://github.com/archeskeith/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archeskeith&theme=merko&show_icons=true" />
 </a>
