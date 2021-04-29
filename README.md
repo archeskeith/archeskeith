@@ -25,7 +25,7 @@
 
 ![@archeskeith's GitHub stats](https://github-readme-stats.vercel.app/api?username=archeskeith&theme=merko&show_icons=true)
 
-![@archeskeith's GitHub stats](https://github-readme-stats.vercel.app/api?username=archeskeith&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archeskeith&layout=compact)](https://github.com/archeskeith/github-readme-stats)
 
 [twitter]: https://twitter.com/archeskeith
 [instagram]: https://instagram.com/archeskeith
